@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6366f1&amp;height=200&amp;section=header&amp;text=AI%20Research%20Crew&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Autonomous%20multi-agent%20literature%20discovery%20%26%20research%20gap%20synthesis&amp;descAlignY=58&amp;descColor=c7d2fe" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=AI%20Research%20Crew&fontSize=52&fontColor=ffffff&fontAlignY=38)
 
 <br/>
 
@@ -353,7 +353,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6366f1&amp;height=100&amp;section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
 
 *If this saved you hours of literature hunting, consider giving it a ⭐*
 
